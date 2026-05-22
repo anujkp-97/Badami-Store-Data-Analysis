@@ -10,7 +10,7 @@ The main objective of this project is to:
 - Improve marketing campaigns
 - Increase customer lifetime value (CLV)
 
----
+
 # ❓ Business Problems
 
 - How do sales and orders vary month-wise?
